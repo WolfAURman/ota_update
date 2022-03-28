@@ -4,7 +4,7 @@ LineageOS OTA lava
 
 "filename" - name of your OTA package
 
-"id" - update identificator, simply use password generator (I used this https://www.roboform.com/password-generator)
+"id" - update identificator, simply use password generator (I used this https://www.roboform.com/password-generator I recommend using 65 characters or more)
 
 "romtype" - your build type (unofficial)
 
