@@ -1,5 +1,6 @@
 ## OTA update
-LineageOS OTA lava
+LineageOS OTA update
+
 "datetime" - build date in UNIX timestamp, see out/build_date.txt
 
 "filename" - name of your OTA package
