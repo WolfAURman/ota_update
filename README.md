@@ -14,3 +14,6 @@ LineageOS OTA update
 "url" - direct link to package
 
 "version" - ROM version
+
+## Original instructions
+https://github.com/ivanmeler/ota_provider
