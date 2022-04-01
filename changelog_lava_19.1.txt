@@ -4,3 +4,4 @@
 - Synchronized with the latest sources
 - Upstream of the kernel to version 4.14.273 (pizza)
 - Adding OTA updates (in the future they will come without installing a new application)
+- Correction of sound volume in all speakers
