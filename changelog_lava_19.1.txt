@@ -1,3 +1,6 @@
 =============
 31-03-2022
 =============
+- Synchronized with the latest sources
+- Upstream of the kernel to version 4.14.273 (pizza)
+- Adding OTA updates (in the future they will come without installing a new application)
