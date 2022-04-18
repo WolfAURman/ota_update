@@ -8,6 +8,7 @@ Thank you very much rozenov!
 - Adding Power HAL Q (and also some useful commits from the pixel github were taken)
 - Other minor fixes
 - Updating the kernel to version 4.14.275
+- April Security Patch
 
 =============
 01-04-2022
