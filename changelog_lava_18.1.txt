@@ -1,3 +1,22 @@
 =============
-31-03-2022
+17-04-2022
 =============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- Removing the volume increase (Vendor)
+- Adding Power HAL Q (and also some useful commits from the pixel github were taken)
+- Other minor fixes
+- Updating the kernel to version 4.14.275
+
+=============
+01-04-2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- Adding OTA updates (in the future they will come without installing a new application)
+- Correction of sound volume in all speakers
+- Security patch from March
+
+01001001 00100000 01101100 01101111 01110110 01100101 00100000 01001101 01100001 01110010 01111001
