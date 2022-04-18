@@ -1,4 +1,16 @@
 =============
+14-04-2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- Removing the volume increase (Vendor)
+- Adding Power HAL Q (and also some useful commits from the pixel github were taken)
+- Other minor fixes
+- Updating the kernel to version 4.14.275
+- Added new icons, general optimization
+
+=============
 31-03-2022
 =============
 Thank you very much rozenov!
