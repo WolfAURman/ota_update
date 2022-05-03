@@ -5,7 +5,7 @@ LineageOS OTA update
 
 "filename" - name of your OTA package
 
-"id" - update identificator, simply use password generator (I used this https://www.roboform.com/password-generator I recommend using 65 characters or more)
+"id" - update identificator, here you need to enter sha256
 
 "romtype" - your build type (unofficial)
 
