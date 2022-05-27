@@ -1,4 +1,12 @@
 =============
+18.05.2022
+=============
+- Synchronized with the latest sources
+- Other minor fixes
+- Updating the kernel to version 4.14.278
+- May Security Patch
+
+=============
 17-04-2022
 =============
 Thank you very much rozenov!
