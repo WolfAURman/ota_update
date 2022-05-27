@@ -1,4 +1,16 @@
 =============
+17.05.2022
+=============
+- Synchronized with the latest sources
+- Upstream kernel to version 4.14.278
+- Security patch for May 2022
+- New keyboard
+- New wallpaper
+- Other minor useful fixes
+- Return to the standard tree
+- Correction of the customization menu
+
+=============
 14-04-2022
 =============
 Thank you very much rozenov!
