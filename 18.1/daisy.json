@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1652888248",
+      "filename": "lineage-18.1-20220518-UNOFFICIAL-lava.zip",
+      "id": "79192a5a293c19c01b941fa03becb37d7f88a021862f0645c41a3b871e513eb0",
+      "romtype": "UNOFFICIAL",
+      "size": "840074854",
+      "url": "https://github.com/WolfAURman/ota_update/releases/download/lava_lineage-18.1_1652888248/lineage-18.1-20220518-UNOFFICIAL-lava.zip",
+      "version": "18.1"
+    }
+  ]
+}
