@@ -1,4 +1,22 @@
 =============
+16-07-2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- Updating the kernel to version 4.14.287
+- Jul Security Patch
+
+=============
+19-06-2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- Updating the kernel to version 4.14.282
+- June Security Patch
+
+=============
 18.05.2022
 =============
 - Synchronized with the latest sources
@@ -27,5 +45,3 @@ Thank you very much rozenov!
 - Adding OTA updates (in the future they will come without installing a new application)
 - Correction of sound volume in all speakers
 - Security patch from March
-
-01001001 00100000 01101100 01101111 01110110 01100101 00100000 01001101 01100001 01110010 01111001
