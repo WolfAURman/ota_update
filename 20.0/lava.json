@@ -1,1 +1,13 @@
-#Test
+{
+  "response": [
+    {
+      "datetime": "1662823687",
+      "filename": "lineage-20.0-20220910-UNOFFICIAL-lava.zip",
+      "id": "4596fa808de2a3ff933513853728dd4c332b6bd8603fcb11be3d00cac9356a2c",
+      "romtype": "UNOFFICIAL",
+      "size": "955966169",
+      "url": "https://github.com/WolfAURman/ota_update/releases/download/lava_lineage-20.0_1662823687/lineage-20.0-20220910-UNOFFICIAL-lava.zip",
+      "version": "20.0"
+    }
+  ]
+}
