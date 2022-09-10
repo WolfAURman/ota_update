@@ -1,4 +1,34 @@
 =============
+11-08-2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- Upstream kernel to version 4.14.290
+- Security patch for August 2022
+- Other minor useful fixes
+
+=============
+15-07-2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- Upstream kernel to version 4.14.287
+- Security patch for Jul 2022
+- Other minor useful fixes
+
+=============
+17-06-2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- Upstream kernel to version 4.14.282
+- Security patch for June 2022
+- Other minor useful fixes
+
+=============
 17.05.2022
 =============
 - Synchronized with the latest sources
