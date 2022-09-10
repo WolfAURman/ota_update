@@ -1,3 +1,20 @@
-==========
-9.06.2022
-==========
+=============
+29.07.2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- August Security Patch
+
+=============
+19.07.2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- Initial build
+- Jul Security Patch
+- Added OTA update
+- Use kernel 4.9.312 sleepy
+- Disable LTO in sleepy_defconfig
+- Disable custom clang  
