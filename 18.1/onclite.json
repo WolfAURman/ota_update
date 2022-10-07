@@ -1,1 +1,13 @@
-#Test for redmi 7
+{
+  "response": [
+    {
+      "datetime": "1665104012",
+      "filename": "lineage-18.1-20221007-UNOFFICIAL-onclite.zip",
+      "id": "e01c38f7d58fbffb655b70ccaa2dc5af4fa814038dbddc5394a3c537792e8f6b",
+      "romtype": "UNOFFICIAL",
+      "size": "822695898",
+      "url": "https://github.com/WolfAURman/ota_update/releases/download/onclite_lineage-18.1_1665104012/lineage-18.1-20221007-UNOFFICIAL-onclite.zip",
+      "version": "18.1"
+    }
+  ]
+}
