@@ -1,1 +1,11 @@
-#Test changelog 7
+=============
+07-10-2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- Security patch for September 2022
+- Initial build
+- Vanilla build
+- Other minor fixes
+- Add OTA Update
