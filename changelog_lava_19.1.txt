@@ -1,4 +1,13 @@
 =============
+06-10-2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- Security patch for September 2022
+- Other minor useful fixes
+
+=============
 11-08-2022
 =============
 Thank you very much rozenov!
@@ -29,7 +38,7 @@ Thank you very much rozenov!
 - Other minor useful fixes
 
 =============
-17.05.2022
+17-05-2022
 =============
 - Synchronized with the latest sources
 - Upstream kernel to version 4.14.278
@@ -61,5 +70,3 @@ Thank you very much rozenov!
 - Upstream of the kernel to version 4.14.273 (pizza)
 - Adding OTA updates (in the future they will come without installing a new application)
 - Correction of sound volume in all speakers
-
-01001001 00100000 01101100 01101111 01110110 01100101 00100000 01001101 01100001 01110010 01111001
