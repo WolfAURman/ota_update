@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1664759285",
-      "filename": "lineage-18.1-20221003-UNOFFICIAL-daisy.zip",
-      "id": "e80d54272a345b6f4256b54a9bed7aae5bf98d80badf3110eef7e59e2d02e103",
+      "datetime": "1666703230",
+      "filename": "lineage-18.1-20221025-UNOFFICIAL-daisy.zip",
+      "id": "0d26ec0db777a5dd39053f56f9c6b9550265088caec4094d00bfafe78e9b6ffc",
       "romtype": "UNOFFICIAL",
-      "size": "668198450",
-      "url": "https://github.com/WolfAURman/ota_update/releases/download/daisy_lineage-18.1_1664759285/lineage-18.1-20221003-UNOFFICIAL-daisy.zip",
+      "size": "668152318",
+      "url": "https://github.com/WolfAURman/ota_update/releases/download/daisy_lineage-18.1_1666703230/lineage-18.1-20221025-UNOFFICIAL-daisy.zip",
       "version": "18.1"
     }
   ]
