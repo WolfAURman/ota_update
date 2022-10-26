@@ -10,15 +10,15 @@
 ## List of all updates for all devices: ##
 
 > Daisy: 
-- [LOS 18.1](https://github.com/WolfAURman/ota_update/releases/download/daisy_lineage-18.1_1666703230/lineage-18.1-20221025-UNOFFICIAL-daisy.zip)  | [Changelog](https://github.com/WolfAURman/ota_update/blob/main/changelog_daisy_18.1.txt)
+- [LOS 18.1](https://github.com/WolfAURman/ota_update/releases/download/daisy_lineage-18.1_1666703230/lineage-18.1-20221025-UNOFFICIAL-daisy.zip) | [Changelog](https://github.com/WolfAURman/ota_update/blob/main/changelog_daisy_18.1.txt)
 
 > Lava:
-- [LOS 20.0]()  | [Changelog](https://github.com/WolfAURman/ota_update/blob/main/changelog_lava_20.0.txt)
-- [LOS 19.1](https://github.com/WolfAURman/ota_update/releases/download/lava_lineage-19.1_1666715681/lineage-19.1-20221025-UNOFFICIAL-lava.zip)  | [Changelog](https://github.com/WolfAURman/ota_update/blob/main/changelog_lava_19.1.txt)
-- [LOS 18.1](https://github.com/WolfAURman/ota_update/releases/download/lava_lineage-18.1_1665915804/lineage-18.1-20221016-UNOFFICIAL-lava.zip)  | [Changelog](https://github.com/WolfAURman/ota_update/blob/main/changelog_lava_18.1.txt)
+- [LOS 20.0](https://github.com/WolfAURman/ota_update/releases/download/lava_lineage-20.0_1662823687/lineage-20.0-20220910-UNOFFICIAL-lava.zip) | [Changelog](https://github.com/WolfAURman/ota_update/blob/main/changelog_lava_20.0.txt)
+- [LOS 19.1](https://github.com/WolfAURman/ota_update/releases/download/lava_lineage-19.1_1666715681/lineage-19.1-20221025-UNOFFICIAL-lava.zip) | [Changelog](https://github.com/WolfAURman/ota_update/blob/main/changelog_lava_19.1.txt)
+- [LOS 18.1](https://github.com/WolfAURman/ota_update/releases/download/lava_lineage-18.1_1665915804/lineage-18.1-20221016-UNOFFICIAL-lava.zip) | [Changelog](https://github.com/WolfAURman/ota_update/blob/main/changelog_lava_18.1.txt)
 
 > Onclite
-- [LOS 18.1](https://github.com/WolfAURman/ota_update/releases/download/onclite_lineage-18.1_1665555300/lineage-18.1-20221012-UNOFFICIAL-onclite.zip)  | [Changelog](https://github.com/WolfAURman/ota_update/blob/main/changelog_onclite_18.1.txt)
+- [LOS 18.1](https://github.com/WolfAURman/ota_update/releases/download/onclite_lineage-18.1_1665555300/lineage-18.1-20221012-UNOFFICIAL-onclite.zip) | [Changelog](https://github.com/WolfAURman/ota_update/blob/main/changelog_onclite_18.1.txt)
 
 ## Description of the json file
 
