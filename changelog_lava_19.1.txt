@@ -1,10 +1,29 @@
 =============
+25-10-2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- Security patch for October 2022
+- Other minor useful fixes
+
+=============
 06-10-2022
 =============
 Thank you very much rozenov!
 =============
 - Synchronized with the latest sources
 - Security patch for September 2022
+- Other minor useful fixes
+
+=============
+09-09-2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- Initial build for S vendor
+- Security patch for August 2022
 - Other minor useful fixes
 
 =============

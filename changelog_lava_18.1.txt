@@ -1,4 +1,29 @@
 =============
+16-10-2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- October Security Patch
+
+=============
+02-10-2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- September Security Patch
+
+=============
+10-09-2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- Updating the kernel to version 4.14.290
+- August Security Patch
+
+=============
 16-07-2022
 =============
 Thank you very much rozenov!

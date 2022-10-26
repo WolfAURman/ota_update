@@ -1,5 +1,26 @@
 =============
-29.07.2022
+25.10.2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- October Security Patch
+- Use sleepy kernel (4.9.312)
+- Other minor fixes
+
+=============
+03.10.2022
+=============
+Thank you very much rozenov!
+=============
+- Synchronized with the latest sources
+- September Security Patch
+- New device tree
+- New kernel panda 4.9.330
+- Build kernel using proton clang
+
+=============
+29.08.2022
 =============
 Thank you very much rozenov!
 =============
