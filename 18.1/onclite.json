@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1665555300",
-      "filename": "lineage-18.1-20221012-UNOFFICIAL-onclite.zip",
-      "id": "847b67437102d437ddedde31eb0d85028637a6dd7161e3135b77e65064d5e9d1",
+      "datetime": "1668478613",
+      "filename": "lineage-18.1-20221115-UNOFFICIAL-onclite.zip",
+      "id": "e889ba90ca4157b1e03b30583dc296b55a9d6e6ea21a1343a2e0605d9d7f8e61",
       "romtype": "UNOFFICIAL",
-      "size": "822644362",
-      "url": "https://github.com/WolfAURman/ota_update/releases/download/onclite_lineage-18.1_1665555300/lineage-18.1-20221012-UNOFFICIAL-onclite.zip",
+      "size": "822966155",
+      "url": "https://github.com/WolfAURman/ota_update/releases/download/onclite_lineage-18.1_1668478613/lineage-18.1-20221115-UNOFFICIAL-onclite.zip",
       "version": "18.1"
     }
   ]
